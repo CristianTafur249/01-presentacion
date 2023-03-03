@@ -1,6 +1,6 @@
 let name ='Cristian';
 let lastname='Tafur';
-import imgPerfil from './assets/avatar.jpg';
+import imgPerfil from '../assets/avatar.jpg';
 import './PresentationCard.css';
 
 function PresentationCard(){

@@ -1,7 +1,7 @@
-import PresentationCard from './PresentationCard'
+import PresentationCard from './pre/PresentationCard'
 import './App.css'
-import Contador from './Contador'
-import CountDown from './CountDown'
+import Contador from './contador/Contador'
+import CountDown from './countDown/CountDown'
 
 function App() {
 
