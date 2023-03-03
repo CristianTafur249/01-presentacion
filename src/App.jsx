@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-      <PresentationCard /><Contador />
+      <PresentationCard /><Contador /> <CountDown/>
     </div>
   )
 }
