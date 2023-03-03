@@ -6,10 +6,11 @@ import './PresentationCard.css';
 function PresentationCard(){
     return(
         <div className="presentation-card">
-            <h1>
-                Hola, soy { name + " " + lastname }
-            </h1>
             <img src={imgPerfil} alt="Avatar" className='Avata-img'/>
+            <h1>
+                Hola, soy { name + " " + lastname } Estudiante de Ingenieria de Sistemas
+            </h1>
+            
         </div>
         
     );
