@@ -1,5 +1,5 @@
 <h1> 01-presentacion</h1>
- <p>Este proyecto es una simple presentación creada con React.<p/>
+ <p>Este proyecto es una simple presentación creada con React.</p>
 
 
 <h2>Requisitos</h2>
@@ -16,14 +16,13 @@
 		<pre><code>npm install</code></pre>
 		<li>Luego, ejecuta el siguiente comando para iniciar la aplicación:</li>
 		<pre><code>npm dev run</code></pre>
-		
-	</ol>
+  </ol>
 
 <h2>Tecnologías utilizadas</h2>
 	<ul>
-		<li>React</li>
-		<li>HTML</li>
-		<li>CSS</li>
+		<li>React 📗</li>
+		<li>HTML  📙 </li>
+		<li>CSS   📘 </li>
 	</ul>
  <h2>Autor</h2>
-Este proyecto fue creado por Cristian David Tafur Campo.
+<p>Este proyecto fue creado por Cristian David Tafur Campo.</p>
