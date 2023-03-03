@@ -1,12 +1,12 @@
 import PresentationCard from './PresentationCard'
 import './App.css'
+import Contador from './Contador'
 
 function App() {
 
   return (
     <div className="App">
-      <h1 className='saludo'>Carta de Presentacion</h1>
-     <PresentationCard />
+      <PresentationCard /><Contador />
     </div>
   )
 }
