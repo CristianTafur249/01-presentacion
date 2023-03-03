@@ -7,6 +7,7 @@ function Contador(){
     const [cont , setcont] = useState(0);
     return(
         <div className="contador">
+            <h4>Contador</h4>
             <p>
                 Has hecho clic {cont} veces en este boton
             </p>
