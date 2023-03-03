@@ -2,13 +2,13 @@
  <p>Este proyecto es una simple presentación creada con React.</p>
 
 
-<h2>Requisitos</h2>
+<h3>Requisitos</h3>
 	<ul>
 		<li>Node.js</li>
 		<li>NPM</li>
 	</ul>
 
-<h2>Instrucciones de instalación</h2>
+<h3>Instrucciones de instalación</h3>
 	<p>Para instalar y ejecutar el proyecto, sigue los siguientes pasos:</p>
   <ol>
 		<li>Clona este repositorio en tu computadora.</li>
@@ -18,11 +18,11 @@
 		<pre><code>npm dev run</code></pre>
   </ol>
 
-<h2>Tecnologías utilizadas</h2>
+<h3>Tecnologías utilizadas</h3>
 	<ul>
 		<li>React 📗</li>
 		<li>HTML  📙 </li>
 		<li>CSS   📘 </li>
 	</ul>
- <h2>Autor</h2>
+ <h3>Autor</h3>
 <p>Este proyecto fue creado por Cristian David Tafur Campo.</p>
