@@ -1,10 +1,14 @@
-function Herader() {
+import "./Header.css";
+import PresentationCard from "./pre/PresentationCard";
+import React from "react";
+
+function Header() {
 
     return (
-      <div className="App">
+      <nav className="Header">
         <PresentationCard />
-      </div>
+      </nav>
     )
   }
   
-  export default App
+  export default Header;

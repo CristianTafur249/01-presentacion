@@ -8,7 +8,6 @@ function App() {
 
   return (
     <div className="App">
-      <PresentationCard />
         <Contador /> 
         <CountDown/>
         <List />
