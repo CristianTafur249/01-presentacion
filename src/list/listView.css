@@ -1,4 +1,4 @@
-.CountDown{
+.ListView{
     background-color: rgb(123, 199, 148);
     padding: 1rem;
     width: min(400px,100%);
@@ -10,12 +10,3 @@
     align-items: center;
     text-align:center;
 }
-.inc, .inp, .rein{
-
-    background: #282c34;
-    color: aliceblue;
-    border-radius: 5px;
-    padding: auto;
-    align-content: center;
-}
-

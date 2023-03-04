@@ -37,7 +37,7 @@ function CountDown(){
                 <p>
                     ¡Terminó!
                 </p>
-                <button onClick={()=>setTargetSeconds(null)}>Reiniciar</button>
+                <button onClick={()=>setTargetSeconds(null) }className='rein'>Reiniciar</button>
 
             </div>
         );
@@ -60,8 +60,8 @@ function CountDown(){
             <h3>Temporizador</h3>
             <p>¿Cuantos segundos desea contar?</p>
             <form action="#" onSubmit={ev => parseForm(ev)}>
-            <input type="number" name='seconds' />
-            <button type="submit">Iniciar</button>
+            <input type="number" className='inp' name='seconds' />
+            <button type="submit" className='inc'>Iniciar</button>
             </form>
         </div>
     );
